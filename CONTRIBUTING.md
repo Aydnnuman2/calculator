@@ -93,7 +93,7 @@ what the experience might be like.
 ## Contributor License Agreement
 Before we can review and accept a pull request from you, you'll need to sign a Contributor License
 Agreement (CLA). The CLA ensures that the community is free to use your contributions. More
-information about the agreement is available on the [Microsoft web site](https://cla.opensource.microsoft.com/).
+information about the agreement is available on the [Microsoft website](https://cla.opensource.microsoft.com/).
 Signing the CLA is an automated process, and you only need to do it once for Microsoft projects on
 GitHub.
 
